@@ -23,29 +23,33 @@
 
 ## Sobre o Projeto
 
-
+Um projeto comum de uma simples lista de compras, porém com grande aplicação dos conhecimentos de localStorage, array e objetios. Projeto do curso [JavaScript: manipulando objetos](https://cursos.alura.com.br/course/javascript-manipulando-objetos) e instruido por [**Luan Alves**](https://github.com/luanalvesdev).
 
 ## Objetivos do Projeto
 
-
+- Aprender sobre manipulação de objetos no JavaScript;
+- Conectar o projeto ao localStorage;
+- Implementar métodos para manipulação de elementos no DOM;
+- Aprender a criar métodos para receber dado de pessoa usuária.
 
 ## Funcionalidades do Projeto
 
-
+- Após digitar o que quer adicionar, pressionando **Enter** ou em **Salvar item** ele será deslocado para a Lista de compras e salvo no localStorage;
+- **Checkbox:** Ao ser selecionado o item vai para a lista de **Comprados**. Se for desselecionado voltará a **Lista de compras**;
+- **Lápis:** Ao ser pressionado irá permitir a edição do nome do item, basta clicar no nome do item e alterar.
+- **Disquete:** Aparece após pressionar o Lápis. Quando esse é pressionado o nome será salvo, o Disquete some e o Lápis reaparece;
+- **Lixeira:** Ao ser pressionado todo o item da lista é apagado.
 
 ## Tecnolgias Utilizadas
 
-
+1. HTML
+2. CSS
+3. JS
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1280px:**
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/lista-de-compras-1280px.jpg" alt="Lista de Compras 1280px">
 
 ## Autor
 
