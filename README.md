@@ -53,10 +53,7 @@ Um projeto comum de uma simples lista de compras, porém com grande aplicação 
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
